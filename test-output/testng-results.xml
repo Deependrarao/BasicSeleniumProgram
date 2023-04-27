@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="106" started-at="2023-04-23T13:22:15 IST" finished-at="2023-04-23T13:22:15 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="106" started-at="2023-04-23T13:22:15 IST" finished-at="2023-04-23T13:22:15 IST">
+      <class name="com.selenium.dataprovider.DataProviderDemo">
+        <test-method status="PASS" signature="loginTest(int,java.lang.String,java.lang.String)[pri:1, instance:com.selenium.dataprovider.DataProviderDemo@9660f4e]" name="loginTest" duration-ms="21" started-at="2023-04-23T13:22:15 IST" data-provider="Testdata" finished-at="2023-04-23T13:22:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[deep]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(int,java.lang.String,java.lang.String)[pri:1, instance:com.selenium.dataprovider.DataProviderDemo@9660f4e]" name="loginTest" duration-ms="1" started-at="2023-04-23T13:22:15 IST" data-provider="Testdata" finished-at="2023-04-23T13:22:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dipu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[234@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(int,java.lang.String,java.lang.String)[pri:1, instance:com.selenium.dataprovider.DataProviderDemo@9660f4e]" name="loginTest" duration-ms="1" started-at="2023-04-23T13:22:15 IST" data-provider="Testdata" finished-at="2023-04-23T13:22:15 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[jitu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[456@]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.selenium.dataprovider.DataProviderDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
